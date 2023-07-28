@@ -1,0 +1,185 @@
+Q> what is computer auditing in information security?
+
+	Computer auditing in information security is the process of systematically 
+	reviewing and evaluating an organization's computer systems and networks 
+	to assess their compliance with established security policies and identify potential 
+	vulnerabilities or security breaches. The steps in a computer audit typically include:
+
+	Planning: This step involves identifying the scope of the audit, determining the objectives, and developing a plan of action.
+
+	Preparation: This step involves gathering information about the systems and networks to be audited, including 
+	identifying hardware and software configurations, network topology, and security policies.
+
+	Inspection: This step involves examining the systems and networks for compliance with security policies and for 
+	any potential vulnerabilities. This can include reviewing log files, analyzing network traffic, and conducting vulnerability assessments.
+
+	Testing: This step involves conducting tests to verify that the systems and networks are configured correctly and that
+ 	security controls are working as intended.
+
+	Reporting: This step involves documenting the findings of the audit and providing recommendations for addressing any 
+	issues or vulnerabilities identified.
+
+	Follow-up: This step involves monitoring the systems and networks to ensure that any issues or vulnerabilities identified during the 
+	audit are properly addressed and resolved.
+
+	Reviewing: This step involves regularly reviewing the previous audit and testing the security against the latest threats and vulnerabilities.
+
+	Overall, the goal of computer auditing is to help ensure the confidentiality, integrity, and availability of the organization's information assets 
+	by identifying and mitigating potential security risks.
+
+
+Q.> system access control ?
+
+	System access control refers to the mechanisms and processes 
+	used to control access to computer systems and networks, 
+	including who can log in, what actions they can perform, 
+	and what data they can access. 
+
+	This can include setting permissions and roles for users, implementing authentication 
+	and authorization procedures, and using encryption to protect data. The goal of system 	
+	access control is to ensure that only authorized users have access to sensitive systems and 
+	data, while also preventing unauthorized access or breaches.
+
+	- Examples of system access controls include:
+
+	*Passwords and multi-factor authentication
+	*Firewalls and intrusion detection systems
+	*Role-based access controls
+	*Encryption of data at rest and in transit
+	*Logging and monitoring of system access activities
+	*Regularly scheduled software updates and patches.
+
+
+Q> Data access control in information security?
+
+	Data access control in information securityrefers
+	to the mechanisms and processes used to control 
+	access to data,including who can view, modify, or
+	delete data. This can include setting permissions
+	and roles for users, implementing authentication
+	and authorization procedures, and using encryption 
+	to protect data. The goal of data access control is
+	to ensure that only authorized users have access to
+	sensitive data, while also preventing unauthorized access or breaches.
+
+	- Examples of data access controls include:
+
+	*Role-based access controls (RBAC)
+	*Access control lists (ACLs)
+	*Data encryption
+	*Data masking
+	*Data classification
+	*Regularly scheduled software updates and patches.
+	*It is an important aspect of overall information 
+	    security strategy, and helps to protect against 
+	   data breaches, unauthorized access, and other potential threats.
+
+Q>  what is DAC ? explain Decretionary access control with example"?
+
+	Discretionary Access Control (DAC) is a type of access control that allows the owner or administrator of 
+	a resource to determine who is allowed access to that resource and what they are allowed to do with it. This 
+	type of access control is based on the principle of discretionary access, which means that the owner or
+	administrator has the discretion to decide who is granted access and what level of access they are granted.
+
+	An example of discretionary access control would be a file system on a computer. 
+	The owner of the file system, who is typically the person who created the files, can decide who has access to the 
+	files and what they are allowed to do with them. For example, the owner might decide that certain files are only
+	 accessible to certain individuals, such as members of a specific group or department, or that certain files can only be read and not modified.
+	
+
+Q> what is MAC ? explain Mandatory access control with example"	
+	
+	MAC stands for "Mandatory Access Control." It is a type of access control in which access to resources is strictly
+	controlled based on predefined security rules and policies. 
+	These rules and policies are enforced by the system and cannot be overridden by users or individual processes.
+
+	One example of a system that uses MAC is the U.S. government's classification system for national security information. 
+	under this system, information is classified into different levels (e.g. Confidential, Secret, Top Secret) based on its sensitivity.
+	 Access to information at a particular level is only granted to individuals who have been cleared for that level and have a 
+	"need to know" the information. This ensures that sensitive information is only seen by authorized individuals and is not accidentally
+ 	or maliciously disclosed to those who should not have access to it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	1. Why is a methodology important in the implementation of information security ? How does a methodology improve the process ? Explain.
+
+	Methodology ensures the strict/ perfectly defined process and it increases the likelihood of success.
+	 It improves the process because it unifies the process of identifying specific threats and the creation of
+ 	specific controls to counter those threats into a coherent program.
+
+	Methodology is a technique that has a sequence of all procedures to complete the task. It is important in information security
+	because it ensures that the data is stored in orderly and secured manner. It has the process of identifying the threats and also the 
+	procedures to remove the threats like hacker.
+
+
+	
+
+
+
