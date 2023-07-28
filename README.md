@@ -1,2 +1,2 @@
 # ProjectHub
-this is the website which helps to students to make their projects.
+This is the website that helps students to choose and make their projects.
